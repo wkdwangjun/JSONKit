@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "JSONKit"
-  spec.version      = "1.5"
+  spec.version      = "v1.5"
   spec.summary      = "A Very High Performance Objective-C JSON Library."
   spec.description  = <<-DESC
                       修复了新版本Xcode无法编译通过的bug
